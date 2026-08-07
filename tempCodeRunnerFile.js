@@ -1,1 +1,0 @@
-// TASK: Multiplication Table Generator
